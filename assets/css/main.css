@@ -304,6 +304,7 @@ h2 {
 
 
 
+
 /* ⭐ 桌機版：左右排 */
 .info-section {
   display: flex;
@@ -359,6 +360,7 @@ h2 {
     height: 300px; /* 手機稍微矮一點 */
   }
 }
+
 
 
 
